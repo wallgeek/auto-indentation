@@ -4,6 +4,9 @@
   "version": "0.0.0",
   "description": "A very simple Atom package to detect the indentation in current working file and set it accordingly.",
   "keywords": [
+    "indentation",
+    "indent",
+    "tab"
   ],
   "repository": "https://github.com/wallgeek/auto-indentation",
   "license": "MIT",
