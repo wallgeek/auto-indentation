@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle auto-indentation",
+        "command": "auto-indentation:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "auto-indentation",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "auto-indentation:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

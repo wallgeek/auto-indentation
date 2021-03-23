@@ -1,0 +1,15 @@
+{
+  "name": "auto-indentation",
+  "main": "./lib/auto-indentation",
+  "version": "0.0.0",
+  "description": "Atom package to detect the indentation in current file and set accordingly the tab config of atom.",
+  "keywords": [
+  ],
+  "repository": "https://github.com/wallgeek/auto-indentation",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
