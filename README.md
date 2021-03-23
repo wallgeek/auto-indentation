@@ -1,3 +1,3 @@
 # auto-indentation package
 
-Atom package to detect the indentation in current file and set accordingly the tab config of atom. 
+A very simple Atom package to detect the indentation in current working file and set it accordingly. 
