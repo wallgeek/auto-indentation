@@ -1,7 +1,7 @@
 {
   "name": "auto-indentation",
   "main": "./lib/auto-indentation",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A very simple Atom package to detect the indentation in current working file and set it accordingly.",
   "keywords": [
     "indentation",
